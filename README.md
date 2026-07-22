@@ -23,6 +23,9 @@
 
 </div>
 
+## `whoami`
+
+```javascript
 const darshanPatil = {
   name: "Darshan Patil",
   role: "AI Engineer",
@@ -64,6 +67,4 @@ const darshanPatil = {
 };
 
 console.log("Thanks for visiting my profile 👋");
-
-
-
+```
